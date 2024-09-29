@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# Author         : Emertxe (http://www.emertxe.com) 
+# Date           : Tue 16 Feb 2016 16:27:07 IST
+# File           : ls_001_ch6_hello_world.sh
+# Title          : Hello World
+# Description    : A simple script to print Hello World on terminal using echo command
+#		     
+
+echo "Hello World"
